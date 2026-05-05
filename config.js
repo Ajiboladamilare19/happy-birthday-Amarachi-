@@ -29,7 +29,7 @@ const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "Amarachi",
   photo: "./img/Amarachi.jpg",       // Place your photo in the img/ folder
-  music: "./music/Amarachihbd.mpeg",      // Place your music in the music/ folder
+  music: "./music/Amarachihbd.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
