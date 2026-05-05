@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "May the Goodness and blessings Of God always be with you! ;)",
     },
     {
       type: "fireworks",
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Whatever with the past has gone, the best is always yet to come🙂🥳",
+      text: "Whatever with the past has gone and trust me dearie the best is yet to come🙂🥳",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
