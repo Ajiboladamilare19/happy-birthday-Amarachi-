@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the Goodness and blessings Of God always be with you! ;)",
+      wishText: "May the Lord Goodness and Mercy always be with you! ;)",
     },
     {
       type: "fireworks",
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Whatever with the past has gone and trust me dearie the best is yet to come🙂🥳",
+      text: "May the Lord order your steps into clarity and purpose. May what is meant for you not pass you by, and what is not meant for you lose its hold over your life. In this new year, may you walk in wisdom, grow in strength, and rest in God’s unfailing mercy",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
