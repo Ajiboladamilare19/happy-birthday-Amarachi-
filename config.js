@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the Lord Goodness and Mercy always be with you! ;)",
+      wishText: "May Goodness and Mercy follow you all the days of your life;)",
     },
     {
       type: "fireworks",
