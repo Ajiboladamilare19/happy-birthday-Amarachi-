@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "Whatever with the past has gone, the best is always yet to come🙂🥳",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
